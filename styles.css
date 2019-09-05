@@ -1,0 +1,26 @@
+.circular--square {
+    border-radius: 50%;
+    float: left;
+  }
+.header {
+    padding: 50px 22px;
+    min-height: 50px;
+    text-align: center;
+    color: #fff;
+    background-color: #3f51b5;
+}  
+.biodata{
+   float: right;
+   width: 600px;
+   /* display: inline-block; */
+   /* position: relative; */
+   
+}
+
+.summary{
+    width: 100%;
+    float: none;
+    /* position: relative; */
+    display: inline-block;
+}
+
