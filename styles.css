@@ -6,6 +6,7 @@
       max-width: 1000px;
      margin: auto;
      
+     
   }
 
 .header {
@@ -43,3 +44,13 @@ footer{
     color: #fff;
     background-color: #3f51b5;
 }
+
+hr{
+    border-top: 2px dotted rgb(19, 19, 114);
+    
+}
+a:link {
+    color: #fff;
+    text-decoration: none;
+}
+
